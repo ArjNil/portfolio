@@ -1,3 +1,13 @@
+# Hi! It's me, Nilvia 
+### & this is my portfolio
+                           
+                                                          
+                                                                                     
+                                                                                                                   
+                                                                                                                   
+
+
+
 ###### About me 
 I am a chocolate lover and a self learned data analyst, in that order; It incorporates  organization and  problem solving which I am passionate about.         
 I have interest in data science, cloud computing and machine learning. When I am not growing or learning new skills I am reading, 
@@ -9,11 +19,11 @@ Hope you dig in!
                                        
                                                                
                                                             
- ### Nashville Housing                    
+ #### Nashville Housing                    
 1. Cleaning, dealing with null values, string formatting, subqueries, etc. 
 2. Queries: using reusabel queries. 
  
-#### Resurces used
+##### Resurces used
 DBeaver version 22.02               
 MySQL
                               
