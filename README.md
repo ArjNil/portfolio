@@ -12,12 +12,10 @@ Hope you dig in!
       
       
             
-#### Nashville Housing  
+#### Nashville Housing Market analysis using SQL  
 
-| - Cleaning, dealing with null values, string formatting, subqueries, etc.
-- Queries: using reusabel queries. 
-- Power BI
-|![Nashville!](https://cdn-icons-png.flaticon.com/512/25/25001.png) |                                        
+| Cleaning, using reusable queries to analyze pricing and locations |![Nashville!](https://housage.es/upload/resize_cache/iblock/a33/256_256_2/a33b668301a6dd4f770b1f5ecb2478bd.jpg)|
+
          
 ##### Resurces used        
 DBeaver version 22.02                   
