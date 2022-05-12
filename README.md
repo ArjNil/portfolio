@@ -14,9 +14,8 @@ Hope you dig in!
             
 #### Nashville Housing Market analysis using SQL  
 
-| Cleaning and exploration of sales in different regions                                        |![Nashville!](https://cdn.iconscout.com/icon/premium/png-256-thumb/house-market-prices-4973485-4135464.png)|
+| Cleaning and exploration of sales in different regions                                        |![Nashville (https://static.tokkobroker.com/tfw_images/4938_Laura%20Ceci/a68c1d10ee79852cc71943f6759c0402.jpg)|
 
-         
 ##### Resurces used        
 DBeaver version 22.02                   
 MySQL       
