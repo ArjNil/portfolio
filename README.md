@@ -9,14 +9,10 @@ watching games and looking for handmade ceramic courses.
 Focus on Power BI, Python, Excel & SQL                              
 Here are some of my projects                                 
 Hope you dig in!          
-                   
-                 
-                 
-                  
-                  
-                  
-      
-            
+<br/><br/>   
+<br/><br/>
+<br/><br/>
+
 #### Nashville Housing Market Analysis Using SQL  
 
 |![Housing](https://static.tokkobroker.com/tfw_images/4938_Laura%20Ceci/a68c1d10ee79852cc71943f6759c0402.jpg)|Cleaning and exploration of sales in different regions|
