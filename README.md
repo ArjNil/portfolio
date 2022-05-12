@@ -1,7 +1,6 @@
-
-### & this is my portfolio
-                 
-                                  
+# Hi! It's me, Nilvia                      
+                               
+                                                     
 ##### About me 
 I am a chocolate lover and a self learned data analyst, in that order; 
 It incorporates  organization and  problem solving which I am passionate about.         
