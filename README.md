@@ -1,17 +1,23 @@
-## Nilvia Arjona
-# Data Analyst
-
 ###### About me 
-I am a chocolate lover and a self learned data analyst, in that order; It incorporates  organization and  problem solving which I am passionate about,         
+I am a chocolate lover and a self learned data analyst, in that order; It incorporates  organization and  problem solving which I am passionate about.         
 I have interest in data science, cloud computing and machine learning. When I am not growing or learning new skills I am reading, 
 watching games and looking for handmade ceramic courses. 
 
 Focus on Power BI, Python, Excel & SQL              
 Here are some of my projects             
 Hope you dig in!          
-                      
-                      
-
+                                       
+                                                               
+                                                            
+ ### Nashville Housing                    
+1. Cleaning, dealing with null values, string formatting, subqueries, etc. 
+2. Queries: using reusabel queries. 
+ 
+#### Resurces used
+DBeaver version 22.02               
+MySQL
+                              
+                              
 You can use the [editor on GitHub](https://github.com/ArjNil/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
