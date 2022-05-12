@@ -7,16 +7,14 @@ watching games and looking for handmade ceramic courses.
 Focus on Power BI, Python, Excel & SQL                              
 Here are some of my projects                                 
 Hope you dig in!                       
-                                      
-                                       
-                
-                
-                
+      
+      
+            
 #### Nashville Housing                    
 1. Cleaning, dealing with null values, string formatting, subqueries, etc. 
 2. Queries: using reusabel queries. 
  
-**Resurces used**        
+##### Resurces used        
 DBeaver version 22.02                   
 MySQL
                               
