@@ -18,8 +18,8 @@ Hope you dig in!
 1. Cleaning, dealing with null values, string formatting, subqueries, etc. 
 2. Queries: using reusabel queries. 
  
-**Resurces used**
-DBeaver version 22.02               
+**Resurces used**        
+DBeaver version 22.02                   
 MySQL
                               
                               
