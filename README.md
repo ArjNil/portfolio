@@ -13,14 +13,16 @@ Hope you dig in!
       
             
 #### Nashville Housing  
-| Header | Title |
-| Paragraph | Text |
+![Nashville Housing Market](![image](https://user-images.githubusercontent.com/86179315/168173721-7d3f8243-d513-4d14-bbc4-bac653999c9b.png) 
 1. Cleaning, dealing with null values, string formatting, subqueries, etc. 
 2. Queries: using reusabel queries. 
+3. Power BI
  
 ##### Resurces used        
 DBeaver version 22.02                   
-MySQL
+MySQL       
+Power BI            
+
                               
                               
 You can use the [editor on GitHub](https://github.com/ArjNil/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
