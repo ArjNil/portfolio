@@ -14,14 +14,16 @@ Hope you dig in!
             
 #### Nashville Housing Market analysis using SQL  
 
-| Cleaning and exploration of sales in different regions                                        |![Nashville] (https://static.tokkobroker.com/tfw_images/4938_Laura%20Ceci/a68c1d10ee79852cc71943f6759c0402.jpg)|
+|![Housing](https://static.tokkobroker.com/tfw_images/4938_Laura%20Ceci/a68c1d10ee79852cc71943f6759c0402.jpg)|Cleaning and exploration of sales in different regions|
 
-##### Resurces used        
+*Resurces used*        
 DBeaver version 22.02                   
 MySQL       
 Power BI            
-
-                              
+      
+            
+            
+![alt text](image.jpg)                         
                               
 You can use the [editor on GitHub](https://github.com/ArjNil/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
