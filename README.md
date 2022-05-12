@@ -13,7 +13,9 @@ Hope you dig in!
       
             
 #### Nashville Housing  
-(![image] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F10411256%2Fgettyimages-157196869*750xx3632-2046-0-249.jpg&imgrefurl=https%3A%2F%2Fwww.bizjournals.com%2Fnashville%2Fnews%2F2021%2F03%2F22%2F3-19-print-focus-on-residential-real-estate.html&tbnid=t-qVxjCWPjQtjM&vet=12ahUKEwjntd2V-dr3AhVUZt8KHQzqCaUQMyg_egQIARBe..i&docid=NzDxXzDKQlC19M&w=750&h=422&itg=1&q=nashville%20housing%20market&hl=es&ved=2ahUKEwjntd2V-dr3AhVUZt8KHQzqCaUQMyg_egQIARBe) 
+![Nashville!](https://live.staticflickr.com/7316/27270783410_a9c06c40aa_c.jpg)
+
+
 
 1. Cleaning, dealing with null values, string formatting, subqueries, etc. 
 2. Queries: using reusabel queries. 
