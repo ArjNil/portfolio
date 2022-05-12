@@ -1,3 +1,5 @@
+# Hi! It's me, N I L V I A
+    
 ##### About me 
 I am a chocolate lover and a self learned data analyst, in that order;                                                           
 I have interest in data science, cloud computing and machine learning.                         
@@ -10,7 +12,9 @@ Hope you dig in!
       
       
             
-#### Nashville Housing                    
+#### Nashville Housing  
+| Header | Title |
+| Paragraph | Text |
 1. Cleaning, dealing with null values, string formatting, subqueries, etc. 
 2. Queries: using reusabel queries. 
  
