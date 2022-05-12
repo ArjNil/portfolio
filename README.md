@@ -2,15 +2,16 @@
                                
                                                      
 ##### About me 
-I am a chocolate lover and a self learned data analyst, in that order; 
-It incorporates  organization and  problem solving which I am passionate about.         
-I have interest in data science, cloud computing and machine learning. 
-When I am not growing or learning new skills I am reading, 
-watching games and looking for handmade ceramic courses. 
-
-Focus on Power BI, Python, Excel & SQL              
-Here are some of my projects             
-Hope you dig in!          
+I am a chocolate lover and a self learned data analyst, in that order;                 
+It incorporates  organization and  problem solving which I am passionate about.                  
+I have interest in data science, cloud computing and machine learning.                         
+When I am not growing or learning new skills I am reading,                           
+watching games and looking for handmade ceramic courses.                   
+                       
+Focus on Power BI, Python, Excel & SQL                              
+Here are some of my projects                                 
+Hope you dig in!                       
+                   
 >
 >                                                        
  #### Nashville Housing                    
