@@ -14,14 +14,11 @@ Hope you dig in!
             
 #### Nashville Housing  
 
-| - Cleaning, dealing with null values, string formatting, subqueries, etc. |![Nashville!](https://cdn-icons-png.flaticon.com/512/25/25001.png) |
-| Queries: using reusabel queries.                                          |
-| Power BI.                                                                 |
-
-
-
-
- 
+| - Cleaning, dealing with null values, string formatting, subqueries, etc.
+- Queries: using reusabel queries. 
+- Power BI
+|![Nashville!](https://cdn-icons-png.flaticon.com/512/25/25001.png) |                                        
+         
 ##### Resurces used        
 DBeaver version 22.02                   
 MySQL       
